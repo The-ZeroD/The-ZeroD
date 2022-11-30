@@ -1,6 +1,7 @@
 ### Hi there 👋
+[![@thezerod's Holopin board](https://holopin.me/thezerod)](https://holopin.io/@thezerod)
 
-<!--
+### About Me
 **The-ZeroD/The-ZeroD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+
+### Stats
 [![The-ZeroD github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=The-ZeroD&count_private=true&include_all_commits=true&theme=radical&layout=compact)](https://github.com/The-ZeroD)
 [![The-ZeroD github stats](https://github-readme-stats.vercel.app/api?username=The-ZeroD&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/The-ZeroD)
 [![The-ZeroDgithub stats](https://github-readme-streak-stats.herokuapp.com/?user=The-ZeroD&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/The-ZeroD)
