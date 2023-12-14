@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ### Stats
 [![The-ZeroD github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=The-ZeroD&count_private=true&include_all_commits=true&theme=radical&layout=compact)](https://github.com/The-ZeroD)
+
 [![The-ZeroD github stats](https://github-readme-stats.vercel.app/api?username=The-ZeroD&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/The-ZeroD)
+
 [![The-ZeroDgithub stats](https://github-readme-streak-stats.herokuapp.com/?user=The-ZeroD&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/The-ZeroD)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
