@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
 [website]: https://The-ZeroD.github.io/
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com/
+[twitter]: https://twitter.com/The_ZeroD
+[instagram]: https://instagram.com/the_zerod
